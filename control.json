@@ -1,5 +1,5 @@
 {
-  "activeMode": "full",
+  "activeMode": "info_affirmation",
 
   "modes": {
     "camera_only": {
@@ -15,7 +15,7 @@
       "camera": true,
       "stats": true,
       "weather": true,
-      "affirmation": false
+      "affirmation": true
     },
 
     "info_affirmation": {
