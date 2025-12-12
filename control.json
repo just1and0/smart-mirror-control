@@ -1,0 +1,29 @@
+{
+  "activeMode": "full",
+
+  "modes": {
+    "camera_only": {
+      "id": "camera_only",
+      "camera": true,
+      "stats": false,
+      "weather": false,
+      "affirmation": false
+    },
+
+    "full": {
+      "id": "full",
+      "camera": true,
+      "stats": true,
+      "weather": true,
+      "affirmation": false
+    },
+
+    "info_affirmation": {
+      "id": "info_affirmation",
+      "camera": false,
+      "stats": true,
+      "weather": true,
+      "affirmation": true
+    }
+  }
+}
